@@ -1,4 +1,4 @@
-import React, { useState, type Dispatch, type SetStateAction } from "react";
+import  { useState, type Dispatch, type SetStateAction } from "react";
 import { FaUser, FaStar } from "react-icons/fa";
 import { IoFlag } from "react-icons/io5";
 import { toast } from "react-toastify";
@@ -15,7 +15,7 @@ interface IplayerCardProps{
 const PlayerCard = ({ player,coin,setCoin,selectedPlayers,setSelectedPlayers}:IplayerCardProps) => {
     const[isSelected, setIsSelected] = useState(false);
 
-    
+
     const handleSelectPlayer =()=>{
         // Selected and Coin update 
         if(coin>player.price){
@@ -23,12 +23,13 @@ const PlayerCard = ({ player,coin,setCoin,selectedPlayers,setSelectedPlayers}:Ip
         const newCoin= coin- player.price;
         setCoin(newCoin);
         toast.success(`${player.playerName} successfully Purchased`)
+            setSelectedPlayers([...selectedPlayers,player]);
         }else{
             toast.error("insufficient Balance")
         }
         // send to Selected player to select tab
 
-        setSelectedPlayers([...selectedPlayers,player]);
+    
         
         
 

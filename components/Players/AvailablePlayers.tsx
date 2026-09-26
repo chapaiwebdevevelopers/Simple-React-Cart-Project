@@ -1,6 +1,6 @@
 
 import type { Dispatch, SetStateAction } from "react";
-import { IPlayer } from "../../src/types/playerType";
+import type { IPlayer } from "../../src/types/playerType";
 import PlayerCard from './PlayerCard'
 
 // interface  PlayersProps{
@@ -22,7 +22,14 @@ const AvailablePlayers = ({players,coin,setCoin,selectedPlayers,setSelectedPlaye
                 players.map((player:IPlayer,index:number)=>{
                     return(
                        
-                            <PlayerCard player={player} key={index} coin={coin} setCoin={setCoin} selectedPlayers={selectedPlayers} setSelectedPlayers={setSelectedPlayers}> </PlayerCard>
+                            <PlayerCard
+                                player={player}
+                                key={index}
+                                coin={coin}
+                                setCoin={setCoin}
+                                selectedPlayers={selectedPlayers}
+                                setSelectedPlayers={setSelectedPlayers as Dispatch<SetStateAction<object[]>>}
+                            />
 
                     )
                 })

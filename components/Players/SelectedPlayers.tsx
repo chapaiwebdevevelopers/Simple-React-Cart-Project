@@ -1,8 +1,8 @@
 // import React from 'react';
 
 import type { Dispatch, SetStateAction } from "react";
-import { FaRegTrashAlt } from "react-icons/fa";
-import { IPlayer } from "../../src/types/playerType";
+
+import type { IPlayer } from "../../src/types/playerType";
 import SelectedPlayerCard from "./SelectedPlayerCard";
 
 

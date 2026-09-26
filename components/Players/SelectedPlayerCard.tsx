@@ -1,6 +1,6 @@
-import React from 'react';
+
 import type { Dispatch, SetStateAction } from "react";
-import { IPlayer } from '../../src/types/playerType';
+import type { IPlayer } from '../../src/types/playerType';
 import { FaRegTrashAlt } from 'react-icons/fa';
 
 interface IselectedPlayerCard{
