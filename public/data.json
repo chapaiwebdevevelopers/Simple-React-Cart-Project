@@ -1,0 +1,110 @@
+[
+  {
+    "playerName": "Arif Hasan",
+    "playerImage": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b",
+    "origin": "Bangladesh",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 400
+  },
+  {
+    "playerName": "Sakib Rahman",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoRhnpLTXVIf2UlzFhAX9EyZ8wkHEJNycYeJI5dS57Oi-5w-mBP9nK4R4&s=10",
+    "origin": "Bangladesh",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Left-arm orthodox",
+    "battingStyle": "Left-hand bat",
+    "price": 120
+  },
+  {
+    "playerName": "Nabil Ahmed",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZ2wt6TV6w8AcRF4stoTt4xMXnhEv_ezPVQkgMSDxlXOsU2RwELDAatY&s=10",
+    "origin": "Bangladesh",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 70
+  },
+  {
+    "playerName": "Tanvir Hossain",
+    "playerImage": "https://static.vecteezy.com/system/resources/thumbnails/035/017/122/small/ai-generated-cricket-player-background-photo.jpeg",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand bat",
+    "price": 95
+  },
+  {
+    "playerName": "Rafiul Islam",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hJrKuc06NOusDc3Dw97HbgfbP4dMYlJaDp-dOwMJS0nBguMEaJchnUs&s=10",
+    "origin": "Bangladesh",
+    "playerType": "Wicketkeeper",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 11
+  },
+  {
+    "playerName": "Imran Kabir",
+    "playerImage": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/virat-kohli.png",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 90
+  },
+  {
+    "playerName": "Hamza Ali",
+    "playerImage": "https://cdn.britannica.com/92/279392-050-17841C9E/India-Amanjot-Kaur-Captain-Harmanpreet-Kaur-During-The-ICC-Women-Cricket-World-Cup-2025-One-Day-International-Semi-Final-Match-Between-India-Australia-Navi-Mumbai.jpg",
+    "origin": "Pakistan",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Left-hand bat",
+    "price": 13
+  },
+  {
+    "playerName": "Danish Khan",
+    "playerImage": "https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/24e0/live/c4661cf0-2452-11f0-8c66-ebf25fc2cfef.jpg",
+    "origin": "Pakistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast",
+    "battingStyle": "Right-hand bat",
+    "price": 10
+  },
+  {
+    "playerName": "Ayaan Malik",
+    "playerImage": "https://assets.sportsboom.com/Amelia_Kerr_of_Mumbai_Indians_unsuccessfully_467f36fa45.jpg",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 15
+  },
+  {
+    "playerName": "Rahul Mehta",
+    "playerImage": "https://img.cricketworld.com/images/e-149043/bangladesh's-shakib-al-hasan-walks-off-ians-use.jpg",
+    "origin": "India",
+    "playerType": "Wicketkeeper",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 125
+  },
+  {
+    "playerName": "Vikram Singh",
+    "playerImage": "https://images.icc-cricket.com/image/upload/t_ratio21_9-size30-webp/prd/bn5qbsfmjsn3gca0k5ze",
+    "origin": "India",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand bat",
+    "price": 140
+  },
+  {
+    "playerName": "Rohan Sharma",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOP0iygri1lbkaNZgcjzjwNMnxye6nMch4G64oA-sWfEqOAj5_um9KC60&s=10",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm orthodox",
+    "battingStyle": "Left-hand bat",
+    "price": 10
+  }
+]
